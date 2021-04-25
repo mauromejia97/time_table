@@ -1,0 +1,15 @@
+table{
+    text-align: center;
+    width: 100px;
+    border-spacing: 8px;
+}
+table td{
+    border: 2px solid springgreen;
+    padding: 10px;
+}
+.hora:hover
+{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+}
